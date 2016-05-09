@@ -1,0 +1,15 @@
+state_file=stateXXXXXX.log
+closed_state_file=closed_stateXXXXXX.log
+weight_file=weight.log
+threshold_file=threshold.log
+tau_file=tau.log
+sigma_file=sigma.log
+init_file=init.log
+rep_init_file=rep_init.log
+adapt_lr_file=adapt_lr.log
+error_file=error.log
+closed_error_file=closed_error.log
+lyapunov_file=lyapunov.log
+entropy_file=entropy.log
+period_file=period.log
+save_file=rnn.dat
