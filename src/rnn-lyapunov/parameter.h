@@ -1,0 +1,28 @@
+/*
+    Copyright (c) 2011, Jun Namikawa <jnamika@gmail.com>
+
+    Permission to use, copy, modify, and/or distribute this software for any
+    purpose with or without fee is hereby granted, provided that the above
+    copyright notice and this permission notice appear in all copies.
+
+    THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+    WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+    MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+    ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+    WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+    ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+    OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+ */
+
+#ifndef PARAMETER_H
+#define PARAMETER_H
+
+#define LENGTH 10000
+#define SAMPLE_NUM 1
+#define MEM_SIZE 1000
+#define TRUNCATE_LENGTH 1000
+#define LYAPUNOV_SPECTRUM_SIZE 1
+#define NOISE_DEVIATION 0
+
+#endif
+
